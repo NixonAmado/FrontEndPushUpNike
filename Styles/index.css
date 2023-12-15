@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+}
+
+#author-rights{
+    margin-top: 30vh;
+}
+.bg-gray{
+    background: #e4e1e1;
+}
+.personalized-rounded{
+    border-radius: 5%;
+}
